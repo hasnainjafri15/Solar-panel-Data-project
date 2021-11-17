@@ -3,4 +3,6 @@ import numpy as np
 
 print("hello boys")
 
-the updated version
+df = pd.read_csv("Data\Plant_1_Generation_Data.csv)
+
+
